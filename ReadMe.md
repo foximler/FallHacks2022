@@ -6,6 +6,13 @@ Here's a YouTube demo of the application: [CLICK HERE](https://youtu.be/Kjkl1a1u
 
 ## How To Build
 
+Please insert the given API key at the following locations:
+
+- FallHacks\fhclient\src\components\mapElement.vue: Line 12 after &key=
+- FallHacks\fhclient\src\components\TheWelcome.vue: Line 71 after &key=
+- FallHacks\fhclient\src\components\TheWelcome.vue: Line 84 after &key=
+- FallHacks\fhserver\index.py: Line 33 after &key=
+
 Client:
 1. Open the ```fhclient``` folder and run the following:
 
