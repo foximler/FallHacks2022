@@ -30,5 +30,5 @@ or use the following commmand ```conda install requests python-socketio eventlet
 3. Run the following:
 ```python3 index.py```
 
-Created by: Fox Imler, Alex Ciok, and Jared Murphy
+Created by: Fox Imler, Alexander Ciok, and Jared Murphy
 
