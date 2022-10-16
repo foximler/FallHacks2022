@@ -1,11 +1,16 @@
-#How To Build
+## How To Build
 
-##Client
-Simply go into the fhclient folder and run the following:
-npm i 
-npm run dev
+Client:
+1. Open the ```fhclient``` folder and run the following:
 
-##Server 
-Using anaconda for your package manager you can use the following to install the resources needed and then run the server backend:
-conda install --file package-list.txt
-python3 index.py
+```npm i```
+
+```npm run dev```
+
+Server:
+1. You will need to install conda on your machine first if you haven't already from here: [LINK](https://conda.io/projects/conda/en/latest/user-guide/install/index.html)
+2. Run the following:
+
+```conda install --file package-list.txt```
+
+```python3 index.py```
