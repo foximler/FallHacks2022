@@ -14,3 +14,8 @@ Server:
 ```conda install --file package-list.txt```
 
 ```python3 index.py```
+
+Here's a YouTube demo of the application: [CLICK HERE](https://youtu.be/Kjkl1a1uWkM)
+
+Created by: Fox Imler, Alex Ciok, and Jared Murphy
+
