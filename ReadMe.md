@@ -1,3 +1,7 @@
+## On Time
+
+On Time is an alarm clock that wakes you up based on the traffic inbetween you and your destination. If traffic is bad, On Time will calmly wake you with time to spare to get to work or school on time. If there's little traffic that day, rest easy knowing that On Time is giving you more well deserved rest!
+
 ## How To Build
 
 Client:
