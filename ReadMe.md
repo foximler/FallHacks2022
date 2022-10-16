@@ -22,7 +22,8 @@ Client:
 
 Server:
 1. You will need to install conda on your machine first if you haven't already from here: [LINK](https://conda.io/projects/conda/en/latest/user-guide/install/index.html)
-2. Run the following:
+2. Open the ```fhserver``` folder
+3. Run the following:
 
 ```conda install --file package-list.txt```
 
