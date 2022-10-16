@@ -24,11 +24,10 @@ Client:
 
 Server:
 1. You will need to install conda on your machine first if you haven't already from here: [LINK](https://conda.io/projects/conda/en/latest/user-guide/install/index.html)
+2. Add the following packages in the conda gui: python-socketio, eventlet, and requests
+or use the following commmand ```conda install requests python-socketio eventlet```
 2. Open the ```fhserver``` folder
 3. Run the following:
-
-```conda install --file package-list.txt```
-
 ```python3 index.py```
 
 Created by: Fox Imler, Alex Ciok, and Jared Murphy
